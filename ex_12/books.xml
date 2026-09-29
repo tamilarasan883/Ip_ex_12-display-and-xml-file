@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+    <book>
+        <id>101</id>
+        <title>PHP Programming</title>
+        <author>Tamil</author>
+        <price>450</price>
+    </book>
+
+    <book>
+        <id>102</id>
+        <title>XML Fundamentals</title>
+        <author>praveen</author>
+        <price>350</price>
+    </book>
+
+    <book>
+        <id>103</id>
+        <title>Web Technology</title>
+        <author> Kumar</author>
+        <price>500</price>
+    </book>
+</books>
